@@ -1,0 +1,14 @@
+V:\Funciones\Ejercicio11\Ejercicio11\bin\Debug\net10.0\Ejercicio11.exe
+V:\Funciones\Ejercicio11\Ejercicio11\bin\Debug\net10.0\Ejercicio11.deps.json
+V:\Funciones\Ejercicio11\Ejercicio11\bin\Debug\net10.0\Ejercicio11.runtimeconfig.json
+V:\Funciones\Ejercicio11\Ejercicio11\bin\Debug\net10.0\Ejercicio11.dll
+V:\Funciones\Ejercicio11\Ejercicio11\bin\Debug\net10.0\Ejercicio11.pdb
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.AssemblyInfoInputs.cache
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.AssemblyInfo.cs
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.csproj.CoreCompileInputs.cache
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.dll
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\refint\Ejercicio11.dll
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.pdb
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\Ejercicio11.genruntimeconfig.cache
+V:\Funciones\Ejercicio11\Ejercicio11\obj\Debug\net10.0\ref\Ejercicio11.dll
