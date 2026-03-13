@@ -1,0 +1,14 @@
+V:\Funciones\Ejercicio03\Ejercicio03\bin\Debug\net10.0\Ejercicio03.exe
+V:\Funciones\Ejercicio03\Ejercicio03\bin\Debug\net10.0\Ejercicio03.deps.json
+V:\Funciones\Ejercicio03\Ejercicio03\bin\Debug\net10.0\Ejercicio03.runtimeconfig.json
+V:\Funciones\Ejercicio03\Ejercicio03\bin\Debug\net10.0\Ejercicio03.dll
+V:\Funciones\Ejercicio03\Ejercicio03\bin\Debug\net10.0\Ejercicio03.pdb
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.AssemblyInfoInputs.cache
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.AssemblyInfo.cs
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.csproj.CoreCompileInputs.cache
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.dll
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\refint\Ejercicio03.dll
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.pdb
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\Ejercicio03.genruntimeconfig.cache
+V:\Funciones\Ejercicio03\Ejercicio03\obj\Debug\net10.0\ref\Ejercicio03.dll
