@@ -1,0 +1,14 @@
+V:\Funciones\Ejercicio21\Ejercicio21\bin\Debug\net10.0\Ejercicio21.exe
+V:\Funciones\Ejercicio21\Ejercicio21\bin\Debug\net10.0\Ejercicio21.deps.json
+V:\Funciones\Ejercicio21\Ejercicio21\bin\Debug\net10.0\Ejercicio21.runtimeconfig.json
+V:\Funciones\Ejercicio21\Ejercicio21\bin\Debug\net10.0\Ejercicio21.dll
+V:\Funciones\Ejercicio21\Ejercicio21\bin\Debug\net10.0\Ejercicio21.pdb
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.AssemblyInfoInputs.cache
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.AssemblyInfo.cs
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.csproj.CoreCompileInputs.cache
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.dll
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\refint\Ejercicio21.dll
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.pdb
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\Ejercicio21.genruntimeconfig.cache
+V:\Funciones\Ejercicio21\Ejercicio21\obj\Debug\net10.0\ref\Ejercicio21.dll
